@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/pranabray/](https://www.linkedin.com/in/pranabray/)
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter** and **Tech stuff**
 
 - 📫 How to reach me **impranabray@gmail.com**
 
