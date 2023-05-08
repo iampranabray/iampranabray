@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Al Maghaweer Stables](https://mindari.ae)
 
-- 🌱 I’m currently learning **Flutter,Express, Solidity**
+- 🌱 I’m currently learning **Flutter,(KMM) Jetpack Compose,Express, Solidity**
 
 - 👯 I’m looking to collaborate on **Flutter**
 
