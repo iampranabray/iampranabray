@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Pranab Ray</h1>
 <h3 align="left">Software Developer</h3>
 
+-  I have completed **Master of Technology in Computer Science and Engineering** from **Vellore Institute of Technology, Vellore**.
+- 🔭 I’m currently working at [Al Maghaweer Stables](https://mindari.ae)
 
-- 🔭 I’m currently working on [Al Maghaweer Stables](https://mindari.ae)
-
-- 🌱 I’m currently Working as mobile app dev. on **Flutter,(KMM) Jetpack Compose,Swift,Solidity**
+- 🌱 Tech. stack currently Working as mobile app dev. on **Flutter,(KMM) Jetpack Compose,Swift,Solidity**
 
 - 👯 I’m looking to collaborate on **Flutter,(KMM) Jetpack Compose,Swift**
 
